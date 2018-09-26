@@ -85,8 +85,41 @@ table, th, td {
     color: #57574C;
     border-left: 3px solid #7C7063;
 }
+p{
+    text-indent: 50px;
+    line-height: 25px
+}
+h1{
+    text-align: center;
+    border-bottom: 3px solid #7C7063;
+}
 #experience{
     clear:left;
+}
+
+.job{
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right:auto;
+    box-sizing: border-box;
+    width: 90%;
+    height: auto;
+    padding: 10px 10px;    
+    border: 3px solid #7C7063;
+}
+
+hw{
+    font-weight: bold;
+    line-height: 2;
+}
+
+#abtimg{
+    float: right;
+    padding: 0px 0px 5px 5px;
+}
+#rugimg{
+    float: right;
+    padding: 0px 0px 5px 5px;
 }
 
 .class-chart{
